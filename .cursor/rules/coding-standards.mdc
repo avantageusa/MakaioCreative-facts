@@ -1,0 +1,6 @@
+---
+description: General coding and AI-collaboration standards for this team. Always apply to every change.
+alwaysApply: true
+---
+
+@.claude/rules/coding-standards.md
